@@ -1,0 +1,13 @@
+
+# VS Code
+.vscode
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Database Settings
+config.py
+connect_database.py
+
+# Python
+__pycache__
